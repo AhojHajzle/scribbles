@@ -1,0 +1,5 @@
+index - playing with JS, unfinished mini project (calculator, tic tac toe)
+
+hamsvg - firstly made a basic layout for my site, adding responsive design later + hamburger menu
+
+future projects - creating personal website by recycling what I create here + adding certain elements
