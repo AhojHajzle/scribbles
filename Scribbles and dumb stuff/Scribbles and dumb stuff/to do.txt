@@ -1,3 +1,0 @@
-index - calculator, tic tac toe
-
-hamsvg - scroll bar for article, light/dark mode, review possibility, comments, mobile friendly
